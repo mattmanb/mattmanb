@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Matt Barrington
 - 👀 I’m interested machine learning, ai, and data science
-- 🌱 I’m currently learning Angular and NestJS
-- 🖊️ I’m looking to collaborate on coding board games online
+- 🌱 I’m currently learning about the MERN stack
 - 📫 How to reach me: mattbarrington7@gmail.com
 
 <!---
